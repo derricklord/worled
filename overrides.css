@@ -1,0 +1,8 @@
+#header-img {
+    border-radius: 10px;
+    background-image: url("https://derricklord.github.io/canvas/header-img4.jpg");
+    min-height: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
